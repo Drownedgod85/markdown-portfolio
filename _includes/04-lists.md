@@ -6,4 +6,5 @@
   * SQL
   * Cascading Style Sheets (CSS)
   * Powershell
+  * HTML
   
