@@ -1,4 +1,4 @@
-* Programming Language I'm comfortable with
+* PROFESSIONAL DEVELOPMENT
   * Python (Flask and Django)
   * C++
   * JavaScript
