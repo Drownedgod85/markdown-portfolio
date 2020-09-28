@@ -1,4 +1,4 @@
-**PROFESSIONAL DEVELOPMENT**
+**Certifications and Licenses**
 
 __Harvard University__
 _CS50_
@@ -9,17 +9,14 @@ __Massachusetts Institute of Technology__
 
 _6.001_
 _Computer Science and Programming Using Python_
-<h6> Learned Computer Programming in Python and the fundamentals of computation, as well as getting the opportunity to implement your own Python functions.
-</6>
+<h6> Learned Computer Programming in Python and the fundamentals of computation, as well as getting the opportunity to implement your own Python functions.</6>
 
 __Google IT Automation Professional__
 _Specialization_ 
 __six__-course certification
-<h6> Automate tasks by writing Python scripts. Use Git and GitHub for version control. Manage IT resources at scale, both for physical machines and virtual machines in the cloud. Analyze real-world IT problems and implement the appropriate strategies to solve those problems.
-</6>
+<h6> Automate tasks by writing Python scripts. Use Git and GitHub for version control. Manage IT resources at scale, both for physical machines and virtual machines in the cloud. Analyze real-world IT problems and implement the appropriate strategies to solve those problems.</6>
 
 __Google IT Support Professional__
 _Specialization_ 
 __five__-course certification
-<h6> Learn About Hardware, Software, Internet, Infrastructure, IT Security and Networking.
-</h6>
+<h6> Learn About Hardware, Software, Internet, Infrastructure, IT Security and Networking.</h6>
