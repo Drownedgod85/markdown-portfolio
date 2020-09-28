@@ -5,6 +5,8 @@ _CS50_
 <h6> Learned to think algorithmically and solve problems efficiently. Topics include abstraction, algorithms, data structures, encapsulation, resource management, security, software engineering, and web programming. Languages include C, Python, and SQL plus HTML, CSS, and JavaScript. Problem sets inspired by the arts, humanities, social sciences, and sciences. Course culminates in a final project. 
 
 __Massachusetts Institute of Technology__
+
+_6.001_
 _Computer Science and Programming Using Python_
 <h6> Learned Computer Programming in Python and the fundamentals of computation, as well as getting the opportunity to implement your own Python functions.
 
