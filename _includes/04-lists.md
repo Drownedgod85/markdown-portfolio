@@ -18,7 +18,7 @@ Learned Computer Programming in Python and the fundamentals of computation, as w
 
 **Google IT Automation Professional**
 
--Specialization_
+-Specialization
 
 _six_ 
 -course certifications
