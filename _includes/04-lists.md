@@ -17,14 +17,14 @@ Computer Science and Programming Using Python
 Learned Computer Programming in Python and the fundamentals of computation, as well as getting the opportunity to implement your own Python functions.
 
 
-**Google IT**
+**Google**
 
 [Automation Professional](https://www.youracclaim.com/badges/86bb6b2b-621c-4de2-915f-33fc738aca10)
 
 is designed to provide IT professionals with in-demand skills -- including Python, Git, and IT automation -- that can help them advance their careers. The hands-on curriculum is designed to teach learners how to write code in Python, with a special focus on how this applies to automating tasks in the world of IT support and systems administration.
 
 
-**Google IT**
+**Google**
 
 [Support Professional](https://www.youracclaim.com/badges/ae40864e-3d23-489b-ac2e-5ec9f1bf525a)
 
