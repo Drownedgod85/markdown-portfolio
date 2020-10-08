@@ -7,3 +7,5 @@
   * Cascading Style Sheets (CSS)
   * Powershell
   * HTML
+  * Java
+  * Markdown
